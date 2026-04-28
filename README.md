@@ -29,10 +29,10 @@
 ### 安装
 
 ```bash
-npx skills add <your-username>/ai4s-paper
+npx skills add MaybeBio/ai4s-paper
 ```
 
-> 也可以手动克隆：`git clone https://github.com/<your-username>/ai4s-paper ~/.claude/skills/ai4s-paper`
+> 也可以手动克隆：`git clone https://github.com/MaybeBio/ai4s-paper ~/.claude/skills/ai4s-paper`
 
 ### 使用
 
