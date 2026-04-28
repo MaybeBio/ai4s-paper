@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://docs.anthropic.com/en/docs/claude-code)
+![Contributors](https://img.shields.io/github/contributors/MaybeBio/ai4s-paper)
 
 一个用于 AI for Science (AI4S) 学术论文深度分析的 Claude Code Skill，采用 10 维度系统性分析框架，生成中英双文结构化报告，含精确原文引用。
 
